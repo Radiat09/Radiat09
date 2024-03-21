@@ -1,10 +1,13 @@
+<img src="https://i.ibb.co/4P52nk6/Black-Geometric-Marketing-Expert-Linked-In-Banner.png">
+
 # 💫 About Me:
 
-🔭 I’m currently working on Job search<br>🌱 I’m currently learning Next.js<br>💬 Ask me about anything<br>⚡ Fun fact i love Anime
+🔭 I’m currently working on a Team Project.<br>👯 I’m looking to collaborate on Professional Collaboration<br>🤝 I’m looking for help with in staying updated on the latest industry trends and best practices of Web Development.<br>🌱 I’m currently applying to jobs.<br>💬 Ask me about Web Development.<br>⚡ Fun fact I like Anime.
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/radiat-hossain-ridoy0)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/otsutsuki_rid) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridoysr4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radiat-hossain-ridoy0) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@radiathossainr)
+
 
 # 💻 Tech Stack:
 
