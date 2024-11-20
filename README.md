@@ -2,7 +2,12 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on a Team Project.<br>👯 I’m looking to collaborate on Professional Collaboration<br>🤝 I’m looking for help with in staying updated on the latest industry trends and best practices of Web Development.<br>🌱 I’m currently applying to jobs.<br>💬 Ask me about Web Development.<br>⚡ Fun fact I like Anime.
+🔭 I’m currently working at Airepro Solution Pvt Ltd as a frontend developer, contributing to a Fiverr-like project using React, Tailwind CSS, and Redux.
+🌱 Past experience includes working on a full-stack project with React, Sequelize, and MySQL.
+👯 Looking to collaborate on exciting professional projects and open-source contributions.
+🤝 Actively exploring the latest industry trends and best practices in web development.
+💬 Ask me about frontend development, React, Tailwind CSS, and full-stack workflows.
+⚡ Fun fact: I’m a huge fan of action anime, and I believe coding sprints are a lot like training montages in my favorite shows—intense, challenging, and ultimately rewarding!
 
 ## 🌐 Socials:
 
