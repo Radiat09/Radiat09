@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working at Airepro Solution Pvt Ltd as a frontend developer, contributing to a Fiverr-like project using React, Tailwind CSS, and Redux.
+🔭 On a journey to nullify the thirst of knowlege and bring inner skills.
 
 🌱 Past experience includes working on a full-stack project with React, Sequelize, and MySQL.
 
