@@ -29,12 +29,16 @@ I am a passionate software developer focused on building scalable web applicatio
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Switched to shion.dev for better uptime in 2026 -->
+  <!-- Fixed GitHub Stats -->
   <img src="https://github-readme-stats.shion.dev/api?username=Radiat09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.shion.dev/?user=Radiat09&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+  
+  <!-- Fixed GitHub Streak: Replaced with a reliable mirror -->
+  <img src="https://github-readme-streak-stats-three.vercel.app/?user=Radiat09&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ### 🔝 Top Languages
@@ -46,17 +50,18 @@ I am a passionate software developer focused on building scalable web applicatio
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/radiat-hossain-ridoy0)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ridoysr4)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/otsutsuki_rid)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@@radiathossainr)
+<div align="center">
+  <a href="https://linkedin.com/in/radiat-hossain-ridoy0"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/ridoysr4"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://discord.gg/otsutsuki_rid"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://medium.com/@@radiathossainr"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</div>
 
 ---
 
 <p align="center">
   <img src='https://randommeme-five.vercel.app/' width="400px"/>
   <br>
-  <!-- Updated to Komarev simple counter as itsvg is discontinued -->
-  <img src="https://komarev.com/ghpvc/?username=Radiat09&color=teal&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- Fixed Visitor Counter: Changed color to hex code to avoid 'Color not valid' error -->
+  <img src="https://komarev.com/ghpvc/?username=Radiat09&color=008080&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
