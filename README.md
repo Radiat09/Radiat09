@@ -64,9 +64,6 @@ I am a passionate software developer focused on building scalable web applicatio
 
 
 <div align="center">
-  <!-- Working Meme Alternative -->
-  <img src="https://ctf-api.vercel.app/api/meme" width="400px" alt="Dev Meme" />
-  <br><br>
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Radiat09&color=008080&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
