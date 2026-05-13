@@ -48,7 +48,6 @@ I am a passionate software developer focused on building scalable web applicatio
 
 ---
 
----
 
 ## 🌐 Connect With Me
 
@@ -58,14 +57,12 @@ I am a passionate software developer focused on building scalable web applicatio
   <a href="https://discord.gg/otsutsuki_rid"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://medium.com/@@radiathossainr"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <!-- Added WhatsApp Badge -->
-  <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/01707112952"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
 ---
 
----
 
----
 
 <p align="center">
   <img src='https://randommeme-five.vercel.app/' width="400px"/>
