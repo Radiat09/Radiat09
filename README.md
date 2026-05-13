@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/4P52nk6/Black-Geometric-Marketing-Expert-Linked-In-Banner.png](https://res.cloudinary.com/dplddg9n4/image/upload/v1778693574/Teal_and_Black_Modern_Programmer_New_LinkedIn_Banner_rcdlcy.png">
+<img src="https://res.cloudinary.com/dplddg9n4/image/upload/v1778693574/Teal_and_Black_Modern_Programmer_New_LinkedIn_Banner_rcdlcy.png">
 
 # 💫 About Me:
 
