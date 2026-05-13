@@ -27,16 +27,19 @@ I am a passionate software developer focused on building scalable web applicatio
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radiat09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radiat09&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+  <!-- Switched to shion.dev for better uptime in 2026 -->
+  <img src="https://github-readme-stats.shion.dev/api?username=Radiat09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.shion.dev/?user=Radiat09&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ### 🔝 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radiat09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Radiat09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -53,7 +56,7 @@ I am a passionate software developer focused on building scalable web applicatio
 <p align="center">
   <img src='https://randommeme-five.vercel.app/' width="400px"/>
   <br>
-  <a href="https://visitcount.itsvg.in/api?id=Radiat09&icon=6&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=Radiat09&icon=6&color=0" alt="Visitor Count" />
-  </a>
+  <!-- Updated to Komarev simple counter as itsvg is discontinued -->
+  <img src="https://komarev.com/ghpvc/?username=Radiat09&color=teal&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+
