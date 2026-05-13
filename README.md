@@ -1,45 +1,59 @@
-<img src="https://res.cloudinary.com/dplddg9n4/image/upload/v1778693574/Teal_and_Black_Modern_Programmer_New_LinkedIn_Banner_rcdlcy.png">
+<img src="https://res.cloudinary.com/dplddg9n4/image/upload/v1778693574/Teal_and_Black_Modern_Programmer_New_LinkedIn_Banner_rcdlcy.png" width="100%">
 
-# 💫 About Me:
+# 💫 Hello, I'm Radiat Hossain Ridoy! 
 
-🔭 On a journey to nullify the thirst of knowlege and bring inner skills.
+### 🚀 Fullstack MERN Developer | Next.js & TypeScript Enthusiast
 
-🌱 Past experience includes working on a full-stack project with React, Sequelize, and MySQL.
+I am a passionate software developer focused on building scalable web applications and seamless user experiences. Currently, I'm deep-diving into advanced system architectures and refining my skills in the modern web ecosystem.
 
-👯 Looking to collaborate on exciting professional projects and open-source contributions.
-
-🤝 Actively exploring the latest industry trends and best practices in web development.
-
-💬 Ask me about frontend development, React, Tailwind CSS, and full-stack workflows.
-
-⚡ Fun fact: I’m a huge fan of action anime, and I believe coding sprints are a lot like training montages in my favorite shows—intense, challenging, and ultimately rewarding!
-
-## 🌐 Socials:
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/otsutsuki_rid) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridoysr4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radiat-hossain-ridoy0) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@radiathossainr)
-
-
-# 💻 Tech Stack:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Radiat09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Radiat09&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radiat09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Radiat09&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+- 🛠️ **Founder @ Digifyy.it** – Building digital solutions for a modern world.
+- 🔭 **Currently Working On:** [XomWork](https://github.com/Radiat09) (A Freelancer Marketplace) and [LifeLink](https://github.com/Radiat09) (Blood Donation Platform).
+- 🌱 **Learning:** Advanced Backend Patterns and Socket.io for real-time systems.
+- 💬 **Ask me about:** React, Next.js, Node.js, and why Tailwind CSS is a game-changer.
+- ⚡ **Fun Fact:** I treat coding sprints like anime training montages—intense, high-stakes, and always leading to a power-up!
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Radiat09&icon=6&color=0)](https://visitcount.itsvg.in)
+## 💻 Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-                    
-  
+### Frontend & Styling
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### Tools & Deployment
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Radiat09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radiat09&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+</div>
+
+### 🔝 Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radiat09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/radiat-hossain-ridoy0)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ridoysr4)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/otsutsuki_rid)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@@radiathossainr)
+
+---
+
+<p align="center">
+  <img src='https://randommeme-five.vercel.app/' width="400px"/>
+  <br>
+  <a href="https://visitcount.itsvg.in/api?id=Radiat09&icon=6&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=Radiat09&icon=6&color=0" alt="Visitor Count" />
+  </a>
+</p>
