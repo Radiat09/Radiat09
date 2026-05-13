@@ -42,7 +42,7 @@ I am a passionate software developer focused on building scalable web applicatio
 </div>
 
 ### 🔝 Top Languages
-<div align="center">
+<div align="start">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Radiat09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
@@ -65,9 +65,10 @@ I am a passionate software developer focused on building scalable web applicatio
 
 ---
 
+---
+
 <p align="center">
   <img src='https://randommeme-five.vercel.app/' width="400px"/>
-  <br>
-  <!-- Fixed Visitor Counter: Changed color to hex code to avoid 'Color not valid' error -->
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=Radiat09&color=008080&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
