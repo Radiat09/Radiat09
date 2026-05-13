@@ -7,7 +7,7 @@
 I am a passionate software developer focused on building scalable web applications and seamless user experiences. Currently, I'm deep-diving into advanced system architectures and refining my skills in the modern web ecosystem.
 
 - 🛠️ **Founder @ Digifyy.it** – Building digital solutions for a modern world.
-- 🔭 **Currently Working On:** [XomWork](https://github.com/Radiat09) (A Freelancer Marketplace) and [LifeLink](https://github.com/Radiat09) (Blood Donation Platform).
+- 🔭 **Currently Working On:** [XomWork](https://xom-work-frontend.onrender.com) (A Freelancer Marketplace) and [Hostle Life](https://hostle-life.vercel.app) (Blood Donation Platform).
 - 🌱 **Learning:** Advanced Backend Patterns and Socket.io for real-time systems.
 - 💬 **Ask me about:** React, Next.js, Node.js, and why Tailwind CSS is a game-changer.
 - ⚡ **Fun Fact:** I treat coding sprints like anime training montages—intense, high-stakes, and always leading to a power-up!
